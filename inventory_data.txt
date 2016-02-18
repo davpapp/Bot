@@ -1,0 +1,151 @@
+Trout:156,129,124
+Trout:158,130,125
+Trout:159,131,127
+Trout:140,115,111
+Trout:141,116,112
+Trout:143,118,114
+Trout:162,133,128
+Trout:149,123,119
+Trout:148,122,117
+Trout:137,113,109
+Trout:132,110,105
+Trout:126,103,100
+Trout:114,94,91
+Trout:119,98,94
+Trout:129,105,101
+Trout:154,127,122
+Trout:130,108,103
+Trout:124,102,98
+Trout:117,95,92
+Trout:107,87,85
+Trout:99,81,78
+Trout:88,72,69
+Trout:91,75,72
+Trout:102,84,81
+Trout:110,90,86
+Trout:122,100,97
+Trout:135,111,107
+Trout:163,134,130
+Trout:152,125,120
+Trout:165,136,131
+Trout:146,120,115
+Emerald:15,140,22
+Emerald:15,138,20
+Emerald:13,117,18
+Emerald:13,112,15
+Emerald:13,107,15
+Emerald:10,93,13
+Emerald:14,135,20
+Emerald:13,114,18
+Emerald:16,140,21
+Emerald:13,105,15
+Emerald:10,99,15
+Emerald:10,84,13
+Emerald:10,87,13
+Emerald:10,90,13
+Emerald:10,102,15
+Emerald:14,132,20
+Iron Ore:61,37,28
+Iron Ore:50,30,23
+Iron Ore:66,39,28
+Iron Ore:70,43,30
+Iron Ore:74,45,32
+Iron Ore:78,46,35
+Sapphire:17,21,147
+Sapphire:17,21,145
+Sapphire:12,17,116
+Sapphire:15,17,123
+Sapphire:12,17,120
+Sapphire:13,19,138
+Sapphire:9,15,98
+Sapphire:12,17,118
+Sapphire:9,12,92
+Sapphire:12,15,105
+Sapphire:9,12,95
+Sapphire:12,15,111
+Sapphire:12,15,103
+Sapphire:9,12,89
+Sapphire:12,15,108
+Sapphire:15,20,147
+Salmon:199,65,22
+Salmon:212,69,25
+Salmon:207,68,22
+Salmon:220,72,25
+Salmon:215,71,25
+Salmon:228,75,25
+Salmon:223,74,25
+Salmon:235,77,28
+Salmon:231,76,28
+Salmon:225,75,25
+Salmon:217,72,25
+Salmon:190,62,22
+Salmon:178,59,19
+Salmon:188,62,22
+Salmon:196,65,22
+Salmon:210,69,25
+Salmon:233,77,28
+Salmon:238,79,28
+Salmon:251,87,36
+Salmon:251,83,30
+Salmon:248,83,28
+Salmon:204,68,22
+Salmon:172,56,19
+Salmon:163,53,19
+Salmon:185,61,19
+Salmon:175,58,19
+Salmon:193,64,22
+Salmon:201,67,22
+Salmon:166,55,19
+Salmon:154,50,16
+Salmon:143,46,16
+Salmon:150,50,16
+Salmon:202,128,113
+Salmon:198,125,111
+Salmon:147,48,16
+Strength Potion(3):208,206,50
+Strength Potion(3):210,209,64
+Strength Potion(3):210,209,69
+Strength Potion(3):210,209,73
+Strength Potion(3):210,209,56
+Strength Potion(3):203,202,49
+Strength Potion(3):195,193,48
+Strength Potion(3):184,182,44
+Strength Potion(3):174,171,42
+Strength Potion(3):161,161,38
+Strength Potion(3):149,148,35
+Strength Potion(3):144,143,35
+Strength Potion(3):139,138,34
+Strength Potion(3):152,150,36
+Strength Potion(3):147,146,35
+Strength Potion(3):157,155,38
+Strength Potion(3):164,162,40
+Strength Potion(3):180,178,43
+Strength Potion(3):193,191,48
+Strength Potion(3):202,200,49
+Strength Potion(3):210,208,51
+Strength Potion(3):199,197,49
+Strength Potion(3):191,189,46
+Strength Potion(3):171,169,42
+Strength Potion(3):168,167,40
+Strength Potion(3):205,203,50
+Strength Potion(3):197,196,48
+Strength Potion(3):189,188,46
+Strength Potion(3):87,87,92
+Strength Potion(3):96,96,100
+Strength Potion(3):100,100,103
+Strength Potion(3):116,116,117
+Strength Potion(3):119,119,120
+Strength Potion(3):121,121,122
+Strength Potion(3):81,82,87
+Strength Potion(3):121,122,122
+Strength Potion(3):122,122,123
+Strength Potion(3):123,123,124
+Strength Potion(3):123,123,123
+Strength Potion(3):79,79,85
+Strength Potion(3):78,79,84
+Strength Potion(3):80,80,86
+Strength Potion(3):177,177,179
+Strength Potion(3):178,178,179
+Strength Potion(3):114,114,115
+Strength Potion(3):107,108,110
+Strength Potion(3):82,83,88
